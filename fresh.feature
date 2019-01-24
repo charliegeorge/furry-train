@@ -14,7 +14,7 @@ Feature: Fresh
   @ORPHAN @MANUAL
   Scenario Outline: Copy of First scenario
     Given there are <start> cucumbers
-    When I eat <eat> cucumbers8
+    When I eaet <eat> cucumbers8
     Then I should have <left> cucumber
     
     Examples:
